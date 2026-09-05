@@ -1,8 +1,0 @@
-{
-  "name":"Our Monthly Voucher Wallet",
-  "short_name":"Voucher Wallet",
-  "start_url":"./",
-  "display":"standalone",
-  "background_color":"#F0E8D6",
-  "theme_color":"#1E3535"
-}
